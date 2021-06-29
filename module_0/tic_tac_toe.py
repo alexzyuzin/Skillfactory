@@ -1,7 +1,6 @@
 # Tic Tac Toe for human vs computer. Computer makes random moves.
 # Here we take code from the Skill factory course and update it
 # with the change of one player with computer.
-
 import random
 
 
