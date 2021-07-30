@@ -1,11 +1,9 @@
 Short description of the Unit-1 project.
 
-1. The project is to perform data analysis using python and pandas. 
-Data contains detailed information about movies, such as for example:
+1. The project is to perform data analysis using python and pandas. Data contains detailed information about movies, such as for example:
 budget, revenue, title, cast, director, tagline, overview, runtime, etc.
 
-There are 27 questions. One has to provide a solution to each question. 
-Some of the tasks require multiple solutions. 
+There are 27 questions. One has to provide a solution to each question. Some of the tasks require multiple solutions. 
 
 
 2. Maximum number of points received for the project 27.
@@ -18,20 +16,19 @@ I like the idea of plotting the solutions. It might be nice to give some hints a
 
 3B. Что не получилось сделать так, как хотелось? Над чем ещё стоит поработать?
 
-I had some coding problems in the data. I have used standard utf-8 encoding to upload the dataset, 
-which gave me symbols like â€˜. I believe this might affect the description length in the overview column, for example.
-I do not know how to solve this coding problem.
+I had some coding problems in the data. I have used standard utf-8 encoding to upload the dataset, which gave me symbols like â€˜. 
+I believe this might affect the description length in the overview column, for example. I do not know how to solve this coding problem.
 
 3C. Что интересного и полезного вы узнали в этом модуле?
 
-Actually, the whole thing was new and interesting to me. 
-It might be useful to give some references to the real life data analysis projects.
+Actually, the whole thing was new and interesting to me. It might be useful to give some references to the real life data analysis projects.
 
 3D. Что является вашим главным результатом при прохождении этого проекта?
 
 I understand that I can accomplish the data analysis projects.
 
 3E. Планируете ли вы менять стратегию изучения последующих модулей?
+
 Nope. The focus is on exercises, which requires a lot of self study.  
 
   
