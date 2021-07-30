@@ -4,6 +4,8 @@ Short description of the Unit-1 project.
 budget, revenue, title, cast, director, tagline, overview, runtime, etc.
 
 There are 27 questions. One has to provide a solution to each question. Some of the tasks require multiple solutions. 
+Solution is given in Movies_IMBD_v4_1.ipynb
+Data is given in movie_bd_v5.csv
 
 
 2. Maximum number of points received for the project 27.
